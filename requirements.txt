@@ -1,0 +1,9 @@
+gradio
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+mlxtend
+rfm
+joblib
